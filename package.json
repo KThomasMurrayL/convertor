@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "Fully local audio, video and image converter for Windows, macOS and Linux",
   "author": {
-    "name": "Convertor"
+    "name": "Kieran",
+    "email": "309553612+KThomasMurrayL@users.noreply.github.com"
   },
   "license": "MIT",
   "private": true,
